@@ -1,0 +1,8 @@
+for (var count = 0; count < 8; count++) {
+  penColour(colour_random());
+  moveForward(100);
+  moveBackward(100);
+  turnRight(45);
+}
+
+How to create a basic loop
