@@ -1,8 +1,8 @@
 for (var count = 0; count < 8; count++) {
-  penColour(colour_random());
-  moveForward(100);
-  moveBackward(100);
-  turnRight(45);
+  picColor(colour_random());
+  moveForward(100pixels);
+  moveBackward(100pixels);
+  turnRight(45deg);
 }
 
 How to create a basic loop
